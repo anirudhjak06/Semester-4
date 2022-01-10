@@ -1,0 +1,23 @@
+Course Plan:
+
+Course Introduction					                (All Faculty  ----- 1st class)
+
+Overview of HTML, CSS and JavaScript 		(HS) ---- 2 Week
+
+Problem Search, Definition and Scoping (Identify candidate application, Define its functional and Non-functional scope, State completion criteria), Use Case Methodology, Overview of agile methodology 
+Overview of Tools used in software projects (Task management and Issue tracking (Redmine/JIRA) 		 			                        (G) ----------- 2 Weeks
+
+Background and Tools (Python, Django, DBMS, OOPs), Version control with Git and GitHub (Guided self learning), Overview of browser to web server communication (protocols and mechanisms), 						                (RS & BH)---- 4 weeks
+
+Testing (unit tests, integration tests), Content Management (Wiki), Test case management, Continuous Integration (Jenkins)), 			        (BR) ----- 2 Weeks
+
+
+Grading Policy:
+
+Zero Review			                    --------- 15th January
+First Review		        10%	     --------- 5th February
+Second Review		10%	    --------- 12th March
+Final Review		        30%	    --------- 1st week May
+Mid + Final Exam	        30%
+2 Scheduled Quizzes  10%       	   
+Class Participation	10%	    
